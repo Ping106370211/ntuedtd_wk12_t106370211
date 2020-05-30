@@ -4,7 +4,18 @@ html{
 
 .navbar{
     background-color: #654236;
+    color: #ffffff;
 }
+
+.brandtext{
+    color: #ffffff;
+}
+
+.nav-link{
+    color: #ffffff;
+
+}
+
 
 
 
@@ -33,5 +44,9 @@ html{
 .other{
     background-color: #e8e7c2;
     padding-top: 50px;
+}
+
+.socialicon{
+    margin-left: 20px;
 }
 
